@@ -1,7 +1,9 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Nikita Nayak</h1>
-<h3 align="center">GenAI Builder • ML Enthusiast • Java Developer • Frontend Explorer</h3>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
+
+<h1 align="center">Hieee 👋, I'm Nikita Nayak</h1>
+<h3 align="center">GenAI Builder • ML Enthusiast • Java Developer • Frontend & Backend Explorer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
