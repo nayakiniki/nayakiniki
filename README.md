@@ -1,6 +1,7 @@
-div align="center">
+<div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
+
 
 
 <h1 align="center">Hieee 👋, I'm Nikita Nayak</h1>
